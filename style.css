@@ -4,7 +4,7 @@
 }
 
 body{
-    -webkit-background-image: url(Gambar/gambar1.jpg);
+    -webkit-background-image: url(./Gambar/gambar1.jpg);
     background-image: url(Gambar/gambar1.jpg);
     background-size: center;
     background-position: center;
